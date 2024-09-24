@@ -3,9 +3,9 @@
 |      |      |
 |:---- |:---- |
 | Course and Year | COM304 Foundation Computing 2024 | 
-| Student Name | |
-| Student Number | |
-| Github Account | |
+| Student Name |Manav Bohara|
+| Student Number |102593976|
+| Github Account |manav64|
 
 ## Introduction
 
